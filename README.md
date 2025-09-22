@@ -1,8 +1,8 @@
-# Siena Dataset to epochs and corresponding labels
+# Siena Dataset: Conversion from EDF Files to Epochs with Corresponding Labels
 
 <b>Siena Dataset Link:</b> https://physionet.org/content/siena-scalp-eeg/1.0.0/ 
 
-<b>Task:</b> EDF to data label <br>
+<b>Task:</b> EDF to data and label <br>
 <b>Author:</b> Kazi Mahmudul HASSAN <br>
 
 If you use this code, please cite this paper: http://dx.doi.org/10.1561/116.20240032
